@@ -15,3 +15,6 @@ Training data have been simulated by integrating the associated ODE. Scripts can
 
 ## Model training and evaluation
 Model can be trained with ```train_model.py```. Use args to select the model (RNN, GRU or KKL) and the system.
+
+## License
+This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
